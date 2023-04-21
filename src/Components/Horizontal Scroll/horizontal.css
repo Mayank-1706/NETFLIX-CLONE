@@ -28,7 +28,7 @@
     z-index: 99;
     height: 100%;
     width: 150px;
-    background-image: linear-gradient(-90deg,black,transparent);
+    /* background-image: linear-gradient(-90deg,black,transparent); */
     }
 
 .horizontal_img_container::after {
@@ -39,7 +39,7 @@
     z-index: 99;
     height: 100%;
     width: 150px;
-    background-image: linear-gradient(-90deg, black, transparent);
+    /* background-image: linear-gradient(-90deg, black, transparent); */
 }
 
 
