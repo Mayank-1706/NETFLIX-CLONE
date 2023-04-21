@@ -1,0 +1,99 @@
+.landing{
+    background: #141414;
+    background-image: url('https://wallpapercave.com/wp/wp5770334.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 864px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.landing_heading{
+    margin-top: 220px;
+    margin-left: 60px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+}
+
+.landing_heading p{
+    margin: 0%;
+}
+
+.landing_trending p{
+    margin: 0%;
+}
+
+.landing_about p{
+    margin: 0%;
+}
+
+.landing_trending{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 60px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.landing_trending img{
+    width: 32px;
+    height: 32px;
+}
+
+.landing_about{
+    width: 636px;
+    margin-left: 60px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 33px;
+}
+
+.landing_buttons button{
+    display: flex;
+    flex-direction: row;
+    height: 62px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: none;
+}
+
+.button_name{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+.landing_buttons img{
+    width: 32px;
+    height: 32px;
+}
+
+.landing_buttons{
+    margin-left: 60px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.more_info{
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    width: 250px;
+    color: #FFFFFF;
+}
+
+.play{
+    background: #FFFFFF;
+    border-radius: 4px;
+    width: 175px;
+
+}

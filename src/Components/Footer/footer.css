@@ -1,0 +1,62 @@
+.footer{
+    background-color: #141414;
+    color: #808080;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 278.5px;
+    gap: 20px;
+}
+
+.logo_footer{
+    display: flex;
+    gap: 20px;
+    padding: 20px 0px;
+}
+
+.logo_footer img{
+    width: 24px;
+    height: 24px;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 150px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.info_col{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+.button{
+    width: 107px;
+    height: 37px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    border: 1px solid #808080;
+    color: #808080;
+    background-color: transparent;
+
+}
+
+.copyright{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 14px;
+}
